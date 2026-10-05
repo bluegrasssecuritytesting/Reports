@@ -8,7 +8,7 @@ The goal of this repository is to document practical penetration testing methodo
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
 This repository serves as a personal knowledge base and portfolio demonstrating practical penetration testing skills.
 
@@ -30,42 +30,7 @@ The emphasis is on **understanding methodology rather than simply obtaining flag
 
 ---
 
-## 📂 Repository Structure
-
-```text
-.
-├── machines/
-│   ├── machine-name/
-│   │   ├── README.md
-│   │   ├── enumeration.md
-│   │   ├── exploitation.md
-│   │   ├── privilege-escalation.md
-│   │   └── images/
-│   │
-│   └── another-machine/
-│       └── ...
-│
-├── notes/
-│   ├── enumeration/
-│   ├── privilege-escalation/
-│   ├── web/
-│   ├── linux/
-│   └── windows/
-│
-├── cheatsheets/
-│   ├── linux.md
-│   ├── windows.md
-│   ├── web.md
-│   └── enumeration.md
-│
-└── README.md
-```
-
-The structure may evolve as additional machines and techniques are documented.
-
----
-
-## 🖥️ Practice Machines
+## Practice Machines
 
 Each machine is documented using a methodology similar to a professional penetration testing engagement.
 
@@ -81,21 +46,7 @@ Typical reports include:
 8. **Proof of compromise**
 9. **Lessons learned**
 
-Example:
-
-```text
-machines/
-└── example-machine/
-    ├── README.md
-    ├── enumeration.md
-    ├── exploitation.md
-    ├── privilege-escalation.md
-    └── images/
-```
-
----
-
-## 🔎 Methodology
+## Methodology
 
 The general workflow used throughout these reports follows a penetration testing methodology:
 
@@ -180,7 +131,7 @@ Common areas of investigation include:
 
 ---
 
-## 📝 Report Philosophy
+## Report Philosophy
 
 The reports are intended to document **how and why** an attack works.
 
@@ -192,7 +143,7 @@ Commands are included alongside explanations rather than simply presenting a lis
 
 ---
 
-## ⚠️ Spoilers
+## Spoilers
 
 **Machine walkthroughs contain complete solutions.**
 
@@ -220,7 +171,7 @@ Document lessons learned
 
 ---
 
-## 🎓 OSCP Preparation
+## OSCP Preparation
 
 This repository is intended to support preparation for the OSCP by providing additional practice with:
 
@@ -239,7 +190,7 @@ The material should be considered a **supplement to hands-on lab practice**, not
 
 ---
 
-## 🛠️ Tools
+## Tools
 
 Tools commonly used throughout the repository include:
 
@@ -259,7 +210,7 @@ The specific tools used will depend on the target and engagement.
 
 ---
 
-## ⚖️ Legal & Ethical Use
+## Legal & Ethical Use
 
 All techniques documented in this repository are intended for **authorized security testing and educational purposes only**.
 
@@ -271,7 +222,7 @@ The author assumes no responsibility for misuse of the information contained wit
 
 ---
 
-## 📚 Learning Resources
+## Learning Resources
 
 This repository is intended to complement hands-on security training and intentionally vulnerable environments.
 
@@ -288,7 +239,7 @@ Recommended areas of study include:
 
 ---
 
-## 🚧 Roadmap
+## Roadmap
 
 Planned additions include:
 
@@ -306,7 +257,7 @@ Planned additions include:
 
 ---
 
-## 👤 About
+## About
 
 This repository is maintained as part of my ongoing development in offensive security and penetration testing.
 
@@ -323,7 +274,7 @@ I currently hold the **eJPT** certification and am working toward the **OSCP**.
 
 ---
 
-## ⭐ Disclaimer
+## Disclaimer
 
 **OSCP®** is a registered trademark of Offensive Security Services, LLC.
 
@@ -331,7 +282,7 @@ This repository is an independent project and is not affiliated with or endorsed
 
 ---
 
-## 📜 License
+## License
 
 Unless otherwise specified, the original content in this repository is provided for educational purposes.
 
