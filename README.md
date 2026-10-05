@@ -6,7 +6,6 @@ The goal of this repository is to document practical penetration testing methodo
 
 > **Disclaimer:** This repository is an independent educational project and is not affiliated with, endorsed by, or sponsored by Offensive Security. All content is based on intentionally vulnerable practice machines, labs, CTFs, and personal research.
 
----
 
 ## Purpose
 
@@ -27,8 +26,6 @@ The reports focus on the complete penetration testing process, including:
 * Documentation and reporting
 
 The emphasis is on **understanding methodology rather than simply obtaining flags or shells**.
-
----
 
 ## Practice Machines
 
@@ -129,19 +126,6 @@ Common areas of investigation include:
 * ACL abuse
 * Lateral movement
 
----
-
-## Report Philosophy
-
-The reports are intended to document **how and why** an attack works.
-
-Where possible, each walkthrough explains:
-
-> **What was discovered → Why it mattered → How it was exploited → What was gained → How the attack could be prevented**
-
-Commands are included alongside explanations rather than simply presenting a list of commands to execute.
-
----
 
 ## Spoilers
 
@@ -188,8 +172,6 @@ This repository is intended to support preparation for the OSCP by providing add
 
 The material should be considered a **supplement to hands-on lab practice**, not a replacement for official training or labs.
 
----
-
 ## Tools
 
 Tools commonly used throughout the repository include:
@@ -208,8 +190,6 @@ Tools commonly used throughout the repository include:
 
 The specific tools used will depend on the target and engagement.
 
----
-
 ## Legal & Ethical Use
 
 All techniques documented in this repository are intended for **authorized security testing and educational purposes only**.
@@ -219,8 +199,6 @@ Only use these techniques against systems that you own or have explicit permissi
 Do not use the information in this repository to access, compromise, modify, or disrupt systems without authorization.
 
 The author assumes no responsibility for misuse of the information contained within this repository.
-
----
 
 ## Learning Resources
 
@@ -236,8 +214,6 @@ Recommended areas of study include:
 * Privilege escalation
 * Exploit development fundamentals
 * Security reporting
-
----
 
 ## Roadmap
 
@@ -255,8 +231,6 @@ Planned additions include:
 * [ ] Professional-style penetration testing reports
 * [ ] OSCP methodology notes
 
----
-
 ## About
 
 This repository is maintained as part of my ongoing development in offensive security and penetration testing.
@@ -272,15 +246,11 @@ My current focus includes:
 
 I currently hold the **eJPT** certification and am working toward the **OSCP**.
 
----
-
 ## Disclaimer
 
 **OSCP®** is a registered trademark of Offensive Security Services, LLC.
 
 This repository is an independent project and is not affiliated with or endorsed by Offensive Security.
-
----
 
 ## License
 
