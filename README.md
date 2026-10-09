@@ -157,7 +157,7 @@ Document lessons learned
 
 ## OSCP Preparation
 
-This repository is intended to support preparation for the OSCP by providing additional practice with:
+This repository is intended to document my preparation for the OSCP by detailing additional practice with:
 
 * Enumeration
 * Manual exploitation
@@ -170,7 +170,7 @@ This repository is intended to support preparation for the OSCP by providing add
 * Troubleshooting
 * Technical documentation
 
-The material should be considered a **supplement to hands-on lab practice**, not a replacement for official training or labs.
+If you are using this repo to aid in your journey, you should be aware that the material should be considered a **supplement to hands-on lab practice**, not a replacement for official training or labs.
 
 ## Tools
 
