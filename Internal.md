@@ -29,6 +29,7 @@ A google search looking for vulnerabilities affecting Windows Server 2008 Standa
 ### MS09-050 Microsoft SRV2.SYS SMB Negotiate ProcessID Function Table Dereference
 
 **Vulnerability Summary**
+
 This is a critical vulnerability (CVE-2009-3103) affecting the Server Message Block (SMB) implementation in the srv2.sys driver for Windows. 
 
 Once you have Metasploit and the appropriate module loaded, you must first set your target and local options as imaged. Once these are set, it is as simple as running the exploit. 
