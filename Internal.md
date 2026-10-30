@@ -1,4 +1,4 @@
-# Internal Walk Through
+# Internal Write Up
 
 This machine is from Offensive Security's Proving Grounds. The practitioner can expect to hone their skills in:
 
