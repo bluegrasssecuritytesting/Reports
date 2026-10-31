@@ -1,29 +1,29 @@
-Kevin Write Up
+# Kevin Write Up
 
-Skills Used
+***Skills Used***
 
-Service Enumeration
-Web Application Enumeration
-Metasploit
-Exploit-DB
+- Service Enumeration
+- Web Application Enumeration
+- Metasploit
+- Exploit-DB
 
-Port Scan
+## Port Scan
 <Screenshot>
 
-Interesting Services
+## Interesting Services
 <Table>
 
-Web Landing Page
+## Web Landing Page
 <Screenshot>
 
-Default Credentials 
+## Default Credentials 
 <Screenshot>
 
-Exploit Research
+## Exploit Research
 <Screenshot>
 
-Two Methods of Exploitation
-Metasploit
+# Two Methods of Exploitation
+## Metasploit
 
 
-Exploit-DB
+## Exploit-DB
